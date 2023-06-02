@@ -1,0 +1,3 @@
+#!/bin/bash
+# Create kubernetes cluster
+kind create cluster --config ./my-cluster.yaml
